@@ -1,1 +1,35 @@
-stylesheet.css
+header, body {
+	width: 100%;
+}
+
+header {
+	background-image: url('images/header.jpg');
+	color: white;
+}
+
+.container-1 {
+	background-color: #2ECC71;
+	color: white;
+}
+
+.container-2 {
+	background-color: white;
+}
+
+.container-3 {
+	background-color: #17202A;
+	color: white;
+}
+
+.container-4 {
+	background-color: white;
+}
+
+.contact {
+	background-color: #2ECC71;
+	color: white;
+}
+
+.copyright {
+	background-color: white;
+}
