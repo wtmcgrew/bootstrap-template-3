@@ -7,6 +7,10 @@ header {
 	color: white;
 }
 
+.mt, .mr, .mb, .ml {
+	margin: 0;
+}
+
 .container-1 {
 	background-color: #2ECC71;
 	color: white;
@@ -22,7 +26,12 @@ header {
 }
 
 .container-4 {
+	background-color: #17202A;
+}
+
+.container-5 {
 	background-color: white;
+
 }
 
 .contact {
@@ -32,4 +41,10 @@ header {
 
 .copyright {
 	background-color: white;
+}
+
+.card-img-overlay:hover {
+	border: 10px solid rgba(255,255,255,0.3);
+	line-height: 160px;
+	transform: scale(1.1);
 }
