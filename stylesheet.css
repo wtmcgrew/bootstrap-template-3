@@ -4,7 +4,6 @@ header, body {
 
 header {
 	background-image: url('images/header.jpg');
-	color: white;
 	padding: 400px 60px 280px;
 }
 
@@ -13,46 +12,37 @@ header {
 }
 
 .container-1 {
-	background-color: #2ECC71;
-	color: white;
 	padding: 100px 15px 70px;
 }
 
 .container-2 {
-	background-color: white;
 	padding: 100px 15px 70px;
 }
 
 .container-3 {
-	background-color: #17202A;
-	color: white;
 	padding: 100px 15px 70px;
 }
 
 .container-4 {
-	background-color: #17202A;
 	padding: 0;
 }
 
 .container-5 {
-	background-color: white;
 	padding: 100px 15px 70px;
 
 }
 
 .contact {
-	background-color: #2ECC71;
-	color: white;
 	padding: 100px 15px 70px;
 }
 
 .copyright {
-	background-color: white;
 	padding: 50px 7.5px 35px;
 }
 
 .card-img {
 	max-width: 100%;
+
 }
 
 .card-img-overlay:hover {
